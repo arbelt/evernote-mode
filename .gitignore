@@ -4,3 +4,5 @@ ruby/InstalledFiles
 *.orig
 *.rej
 TAGS
+.cask/
+dist/
